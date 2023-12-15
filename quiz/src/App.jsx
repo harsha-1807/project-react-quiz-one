@@ -9,11 +9,17 @@ function App() {
 
 
   return (
-    // <Home/>
+    <>
+       <Home/>
     
-    // <Quiz/>
+     <Quiz/>
 
-    <Result/>
+     <Result/>
+    
+    
+    
+    </>
+ 
 
 
   )
